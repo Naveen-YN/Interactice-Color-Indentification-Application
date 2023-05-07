@@ -1,1 +1,1 @@
-# ICIA
+# Interactive Color Identification
