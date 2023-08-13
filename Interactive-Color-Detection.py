@@ -65,7 +65,7 @@ class App:
     #It is used for to open another window of the Pixel Color Detection
     def pixel_color_detector(self):
         # Replace `path/to/python/file.py` with the path to your Python file
-        subprocess.Popen(['python', 'D:\\Projects\\ICIA\\Pixel Color Detector.py'])
+        subprocess.Popen(['python', 'Pixel Color Detector.py'])
 
     #File Uploader
     def open_file(self):
