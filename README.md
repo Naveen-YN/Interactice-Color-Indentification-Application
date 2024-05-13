@@ -25,7 +25,7 @@ This Python application provides an interactive interface for identifying colors
 4. Run the application:
 
    ```bash
-   python main.py
+   python Interactive-Color-Detection.py
    ```
 
 ## Usage
