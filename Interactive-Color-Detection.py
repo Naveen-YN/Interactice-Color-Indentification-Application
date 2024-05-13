@@ -12,7 +12,7 @@ import customtkinter
 customtkinter.set_appearance_mode("dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
 import subprocess
-#===================================================================================================================================
+
 
 class App:
     def __init__(self, master):
