@@ -10,7 +10,7 @@ This Python application provides an interactive interface for identifying colors
    pip install tkinter ttkthemes pillow numpy scikit-learn matplotlib webcolors
    ```
 
-2. Download the source code:
+2. Download the source code:   
 
    ```bash
    git clone https://github.com/Naveen-YN/Interactice-Color-Indentification-Application.git
